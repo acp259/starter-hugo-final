@@ -7,7 +7,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: acp259@psu.edu/#contact
+    link: acp259@psu.edu
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/alexisparra00
@@ -21,13 +21,10 @@ education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+      year: 2023
+    - course: BS in Psychology, business focus
+      institution: Penn State University
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 superuser: true
 status:
   icon: ☕️
