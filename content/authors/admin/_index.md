@@ -1,5 +1,5 @@
 ---
-avatar_filename: img_3316.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include international human resources management and
   recruitment and staffing.
 interests:
