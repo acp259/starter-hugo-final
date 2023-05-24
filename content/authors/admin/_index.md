@@ -21,7 +21,7 @@ education:
       year: 2024
     - course: BS in Psychology, Business Focus
       institution: Penn State University
-      year: 2023
+      year: 2072
 superuser: true
 status:
   icon: ☕️
