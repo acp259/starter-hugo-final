@@ -7,7 +7,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: acp259@psu.edu
+    link: acp259@psu.edu/#contact-me
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/alexisparra00
