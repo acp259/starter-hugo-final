@@ -32,6 +32,6 @@ title: Alexis Parra
 first_name: Alice
 email: acp259@psu.edu
 ---
-Alexis Parra holds a Bachelor of Science in Psychology with a business focus from Penn State University. Currently, she is pursuing a Master of Science in Human Resources and Employment Relations from Penn State University, and expects to graduate in May 2024. Her research interests include international human resources management and recruitment and staffing. She siezes any opportunity to learn more about these areas, such as with her trip to Croatia to meet with various companies' HR departments and her Talent Aquisition Intern at Minitab. 
+Alexis Parra holds a Bachelor of Science in Psychology with a business focus from Penn State University. Currently, she is pursuing a Master of Science in Human Resources and Employment Relations from Penn State University, and expects to graduate in May 2024. Her research interests include international human resources management and recruitment and staffing. She siezes any opportunity to learn more about these areas, such as with her trip to Croatia to meet with various companies' HR departments and her Talent Aquisition Intern at Minitab.
 
 {style="text-align: justify;"}
