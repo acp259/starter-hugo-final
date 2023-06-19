@@ -1,9 +1,7 @@
 ---
 avatar_filename: avatar.jpg
-bio: My research interests include international human resources management and
-  recruitment and staffing.
-interests:
-  - international human resources management and recruitment and staffing
+bio: ""
+interests: []
 social:
   - icon: linkedin
     icon_pack: fab
