@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Talent Acquisition Intern
     company: Minitab
-    company_url: 'insert Minitab link'
+    company_url: 'https://www.minitab.com/en-us/'
     company_logo: Minitab
     location: State College, PA
     date_start: '2022-08-01'
