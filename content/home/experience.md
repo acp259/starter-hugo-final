@@ -27,7 +27,7 @@ experience:
     company_url: 'insert Minitab link'
     company_logo: Minitab
     location: State College, PA
-    date_start: 'Aug. 2022'
+    date_start: '2022-08-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -37,48 +37,42 @@ experience:
         * Effectively managed intern positions and entry-level sales requisitions, holding an average time-to-fill period of 30 days.
         * Analyzed the 2021 and 2022 intern program metrics, establishing it’s value as a valuable pipeline.
        
-  - title: Security Analyst Intern
-    company: Gautam Buddha Nagar Police Commissionerate
-    company_url: 'http://noidapolice.com/web/commissioner-of-police'
-    company_logo: gautham
-    location: Bangalore
-    date_start: '2020-08-13'
-    date_end: '2020-10-14'  
+  - title: Loss Prevention Customer Service Associate
+    company: TJMaxx
+    company_url: 'https://tjmaxx.tjx.com/store/index.jsp'
+    company_logo: TJMaxx
+    location: State College, PA
+    date_start: '2021-10-01'
+    date_end: '2022-04-01'  
     description: |2-
         Responsibilities include:
        
-        * Completed training in CEH Hands on experience in Kali linux
-        * Gained good knowledge about OWASP top 10 and WAPT.
-        * Hands on experience with OSINT
-        * Analysis of Government Websites and reporting vulnerabilities
+        * Implemented shrink awareness training and fostered a culture of information sharing among staff and management.
+        * Analyzed CCTV surveillance for suspicious activity and documented findings, reducing theft by 40%.
+        * Secured the confidentiality of over 35 employees identification numbers, transaction records, and work schedules.
+        
 
-  - title: Application Technology Engineer
-    company: Nivid AI
-    company_url: 'https://nividai.com/home'
-    company_logo: nivid
-    location: Bangalore
-    date_start: '2020-01-13'
-    date_end: '2020-04-13'  
+  - title: Community Assistant
+    company: The View
+    company_url: 'https://www.theviewstatecollege.com'
+    company_logo: The View
+    location: State College, PA
+    date_start: '2021-05-01'
+    date_end: '2021-09-01'  
     description: |2-
         Responsibilities include:
        
-        * Created custom pricing cards using Bootstrap , HTML , Javascript
-        * Wrote scripts in Python to extract text from legal documents
-        * Created a Blockchain solution for logging data in the pharma industry.
-        * Content creation built apps to help daily wage workers
+        * Coordinated with property vendors to arrange maintenance appointments and effectively addressed tenant concerns, holding a 98% satisfaction rate.
+        * Facilitated 200 move-ins within a 3-month timeframe and earned a 96% satisfaction rate on the move-in feedback survey.
+        * Prepared comprehensive financial breakdowns of tenant bills and leases, amounts exceeding $7,000.
+       
 
-  - title: Network Configurator
-    company: HasGeek
-    company_url: 'https://hasgeek.com/'
-    company_logo: hg
-    location: Bangalore
-    date_start: '2018-01-04'
-    date_end: '2019-07-30'  
-    description: |2-
-        Responsibilities include:
-       
-        * Worked on the set up and configuration of UniFi family of devices
-        * Set up of network infrastructure for Open Source India,EthIndia,Fifth Elephant
+
+  
+   
+  
+    
+
  
    
 
