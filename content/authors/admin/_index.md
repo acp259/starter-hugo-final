@@ -1,4 +1,7 @@
 ---
+title: Alexis Parra
+role: M.S Human Resources and Employment Relations student | Talent Acquisition
+  Intern
 avatar_filename: avatar.jpg
 bio: ""
 interests: []
@@ -14,7 +17,7 @@ organizations:
     url: https://www.psu.edu
 education:
   courses:
-    - course: MS in Human Resources and Employment Relations
+    - course: M.S in Human Resources and Employment Relations
       institution: Penn State University
       year: 2024
     - course: BS in Psychology, Business Focus
@@ -24,9 +27,7 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: MS Human Resources and Employment Relations student | Talent Acquisition Intern
 highlight_name: true
-title: Alexis Parra
 first_name: Alice
 email: acp259@psu.edu
 ---
