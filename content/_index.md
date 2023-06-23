@@ -17,8 +17,7 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: Greenhouse ATS
           icon: r-project
           icon_pack: fab
         - name: Statistics
