@@ -18,15 +18,11 @@ sections:
       title: Skills
       items:
         - name: Greenhouse ATS
-          icon: r-project
+          icon: GH
           icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Scheduling
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Recruiting
           icon_pack: fas
   - block: experience
     content:
