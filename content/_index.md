@@ -21,8 +21,10 @@ sections:
           icon: GH
           icon_pack: fab
         - name: Scheduling
+          icon: cal
           icon_pack: fas
-        - name: Recruiting
+        - name: Microsoft Office Suite
+          icon: Microsoft office
           icon_pack: fas
   - block: experience
     content:
