@@ -96,27 +96,19 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
-          date_start: '2021-09-01'
+          date_start: '2022-12-01'
+          description: Developed a case solution employing the Change Kaleidoscope model to optimize female talent retention at plant sites for PepsiCo. Delivered a 15-minute presentation of the case solution to a panel of 5 judges.
+          organization: Purdue University
+          organization_url: https://www.purdue.edu
+          title: Purdue University HR Case Competition
+          url: 
+        - certificate_url: 
+          date_end: ''
+          date_start: '2022-09-01'
           description: Collaborated with human resources master’s students from other colleges to generate interest in studying the field. Produced a TikTok within 48-hours, securing 9,000+ views in under 2 months and the award of "Most Creative TikTok”.
           organization: University of South Carolina
           organization_url: https://sc.edu
           title: The Future of HR Conference
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
           url: ''
     design:
       columns: '2'
