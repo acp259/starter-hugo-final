@@ -94,13 +94,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          date_start: '2021-09-01'
+          description: Collaborated with human resources master’s students from other colleges to generate interest in studying the field. Produced a TikTok within 48-hours, securing 9,000+ views in under 2 months and the award of "Most Creative TikTok”.
+          organization: University of South Carolina
+          organization_url: https://sc.edu
+          title: The Future of HR Conference
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
