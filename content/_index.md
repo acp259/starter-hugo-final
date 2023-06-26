@@ -174,25 +174,19 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Contact Information
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: acp259@psu.edu
       contact_links:
         - icon: LinkedIn
           icon_pack: fab
           name: Let's connect!
-          link: 'www.linkedin.com/in/alexisparra00'
+          link: https://www.linkedin.com/in/alexisparra00/
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
