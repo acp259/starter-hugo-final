@@ -1,7 +1,4 @@
 ---
-title: Alexis Parra
-role: M.S Human Resources and Employment Relations student | Talent Acquisition
-  Intern
 avatar_filename: avatar.jpg
 bio: ""
 interests: []
@@ -27,7 +24,10 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: Talent Acquisition Intern at Minitab | M.S. Human Resources & Employment
+  Relations Candidate at Penn State University | B.S. Psychology
 highlight_name: true
+title: Alexis Parra
 first_name: Alice
 email: acp259@psu.edu
 ---
